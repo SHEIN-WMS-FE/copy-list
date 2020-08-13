@@ -1,0 +1,20 @@
+{
+  "name": "copy-list",
+  "version": "0.0.1",
+  "author": "yangdage",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "rollup -c ./build/rollup.conf.pro.js"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.1",
+    "@babel/preset-env": "^7.11.0",
+    "@rollup/plugin-babel": "^5.1.0",
+    "@rollup/plugin-typescript": "^5.0.2",
+    "rollup": "^2.23.1",
+    "tslib": "^2.0.1",
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {}
+}
