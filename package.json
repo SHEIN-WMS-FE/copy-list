@@ -2,11 +2,20 @@
   "name": "copy-list",
   "version": "0.0.1",
   "author": "yangdage",
-  "main": "index.js",
+  "description": "copy list data",
+  "main": "dist/copy-list.js",
+  "types": "index.d.ts",
   "license": "MIT",
   "scripts": {
-    "build": "rollup -c ./build/rollup.conf.pro.js"
+    "build": "rollup -c ./build/rollup.conf.pro.js",
+    "prepublish": "yarn run build"
   },
+  "keywords": ["copy", "clipboard", "js"],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:SHEIN-WMS-FE/copy-list.git"
+  },
+  "bugs": "https://github.com/SHEIN-WMS-FE/copy-list/issues",
   "devDependencies": {
     "@babel/core": "^7.11.1",
     "@babel/preset-env": "^7.11.0",
