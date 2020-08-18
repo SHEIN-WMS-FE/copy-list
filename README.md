@@ -47,3 +47,6 @@ Or
 	}
 	
 ````
+
+## LICENSE
+[MIT](./LICENSE)
