@@ -1,6 +1,6 @@
 {
   "name": "copy-list",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "yangdage",
   "description": "copy list data",
   "main": "dist/copy-list.js",

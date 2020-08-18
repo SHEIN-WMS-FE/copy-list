@@ -1,7 +1,7 @@
 # CopyList
 > 将list中的数据复制到剪切板
 
-[![](https://img.shields.io/badge/version-v0.0.1-success)](https://www.npmjs.com/package/copy-list)
+[![](https://img.shields.io/badge/version-v0.0.2-success)](https://www.npmjs.com/package/copy-list)
 [![](https://img.shields.io/badge/keywords-copy,clipboard-blue)]()
 [![](https://img.shields.io/badge/license-MIT-success)]()
 
