@@ -15,7 +15,7 @@
     "type": "git",
     "url": "git@github.com:SHEIN-WMS-FE/copy-list.git"
   },
-  "bugs": "https://github.com/SHEIN-WMS-FE/copy-list/issues",
+  "bugs": "https://github.com/SHEIN-WMS-FE/copy-list/issues/new",
   "devDependencies": {
     "@babel/core": "^7.11.1",
     "@babel/preset-env": "^7.11.0",
